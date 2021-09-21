@@ -1,12 +1,11 @@
 # ABC Cars
 ## Scenario: 
-I have developed a website for a car company 'ABC Cars Pvt Ltd', this company sell used cars to the users fo this website. So, basically this  
-Used Car Sales portal has numerous functionalities,they are as follows
+I have developed a website for a car company 'ABC Cars Pvt Ltd', this company sell used cars to the users of this website. So, basically this Used Car Sales portal has numerous functionalities, they are as follows
 
-Users will be able to register in the portal using the Registration Page. Users of the 
-portal can search for Cars using Make, Model, Registration & Price Range. Users will be 
-able to view the Car information after searching them. The portal allow users to login, 
-post Car for sale. 
+1. Users will be able to register in the portal using the Registration Page. 
+2. Users of the portal can search for Cars using Make, Model, Registration & Price Range. 
+3. Users will be able to view the Car information after searching them. 
+4. The portal allow users to login, post Car for sale. 
 
 ## The overview of the project is as below 
 
